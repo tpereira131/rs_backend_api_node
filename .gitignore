@@ -1,0 +1,4 @@
+yarn.lock
+node_modules/
+notas.txt
+src/server.js
